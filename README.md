@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Quibete</h1>
-<h3 align="center">a passionate coder and soon-to-be filmmaker-teacher ✨</h3>
+<h3 align="center">a passionate, self-taught coder and soon-to-be filmmaker-teacher ✨</h3>
 
 - 🌱 I’m currently learning: **Javascript, Phyton, Swift**
 
