@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Quibete</h1>
 <h3 align="center">a passionate, self-taught coder and soon-to-be filmmaker-teacher ✨</h3>
 
-- 🌱 I’m currently learning: **Javascript, Phyton, Swift**
-
-- 📫 Reach me at: **ian.mquibete@gmail.com**
+- 🌱 I’m currently learning: **Javascript, Phyton, Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
